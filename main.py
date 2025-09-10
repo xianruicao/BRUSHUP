@@ -1,5 +1,5 @@
 def main():
-    print("Hello from brushup!")
+    print("Hello from brushup! cxr")
 
 
 if __name__ == "__main__":
